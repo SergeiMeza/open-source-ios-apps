@@ -2950,6 +2950,11 @@ Mostly using http://giphy.com/ — [back to top](#readme)
   https://github.com/jnordberg/triggy<br>  Added May 18, 2017<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)
 <a href='https://raw.githubusercontent.com/jnordberg/triggy/master/triggy.jpg'><code>Screenshot 1</code></a> <br></details>
 
+- iOS-Depth-Sampler: A collection of code examples for Depth APIs.  
+  <details><summary><code>swift</code> ⭐</summary>
+
+  https://github.com/shu223/iOS-Depth-Sampler<br>  Added September 19, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)
+<a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/3d.gif?raw=true'><code>Screenshot 1</code></a> <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/portraitmatte.gif?raw=true'><code>Screenshot 2</code></a><br></details>
 
 ### Video 
  
